@@ -15,7 +15,7 @@ int main() {
     cout << "Enter an integer: ";
     cin >> number;
     int x= sumLastTwoDigits(number);
-    cout << "The sum of the last two digits is: " << x;
+    cout << "The sum of the last two digits is:  " << x;
 
     return 0;
 }
